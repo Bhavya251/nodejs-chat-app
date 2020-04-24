@@ -40,10 +40,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone https://github.com/Bhavya251/nodejs-chat-app.git
-    $ cd 
+    $ cd <path to "../index.js">
     $ npm install
 
 
 ## Running the project
-Open `../Chat Application Node/index.js` then you will need:
+Open `../../index.js` then you will need:
     $ npm start
