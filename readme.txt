@@ -1,7 +1,7 @@
 # Bhvaya Patel : Final Project 
 
 In this project I have developed Chat Application using NodeJs and SocketIO which communicates over local network. Moreover, Music Player and
-Current Weather of any City has been developed by me for more user convenience.
+Current Weather of any City has been developed for more user convenience.
 
 ---
 ## Requirements
